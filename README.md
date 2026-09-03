@@ -1,6 +1,6 @@
 # Chirag Pithiya — Frontend Developer
 
-🌐 **Live Portfolio:** https://chirag-portfolio-5i82e1xp0-pithiyachirag1.vercel.app/
+🌐 **Live Portfolio:** https://chirag-portfolio-mp4g.vercel.app/
 
 💻 **GitHub:** https://github.com/Pithiyachirag
 
